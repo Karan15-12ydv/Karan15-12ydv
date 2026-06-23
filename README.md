@@ -28,7 +28,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karan15-12ydv/Karan15-12ydv/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Karan15-12ydv/Karan15-12ydv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br clear="both">
