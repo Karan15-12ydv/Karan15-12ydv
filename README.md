@@ -1,4 +1,4 @@
-[![Karan15-12ydv Holopin board](https://holopin.me/Karan15-12ydv)](https://holopin.io/Karan15-12ydv)
+
 
 <h1 align="center">Hi 👋, I'm Karan Yadav  </h1>
 <h3 align="center">A passionate developer from India</h3>
