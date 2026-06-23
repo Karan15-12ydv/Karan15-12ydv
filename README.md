@@ -32,4 +32,4 @@
 </p>
 
 <br clear="both">
-![Snake animation](https://raw.githubusercontent.com/Karan15-12ydv/Karan15-12ydv/output/github-contribution-grid-snake-dark.svg)
+
