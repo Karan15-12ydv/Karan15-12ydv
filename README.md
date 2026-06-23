@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Yadav  </h1>
 <h3 align="center">A passionate developer from India</h3>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan15-12ydv&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Karan15-12ydv&show_icons=true&theme=dark" />
 
 
 
