@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Karan Yadav  </h1>
 <h3 align="center">A passionate developer from India</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan15-12ydv&show_icons=true&theme=dark)
 
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan15-12ydv&layout=compact&theme=dark)
+
+
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Karan15-12ydv&theme=dark)
 
 ###
 
